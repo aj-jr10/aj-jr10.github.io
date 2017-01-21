@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: Things to change in life
+published: True
 ---
-## Things to change in life
 
 We have all been just lazing around in life without giving our true potential.
 That's because we all want to be successful in life like wanting to ride a mercedes,
