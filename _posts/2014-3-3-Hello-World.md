@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Ballond'or
+title: Ballond'or
 published: true
 ---
 
