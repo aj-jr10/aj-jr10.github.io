@@ -9,7 +9,7 @@ name: Ajay Ramesh
 description: Embedded Software Engineer in Bosch
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/aj-jr10/aj-jr10.github.io/master/images/me.png
 
 #
 # Flags below are optional
@@ -19,12 +19,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: ajayr.ec07@gmail.com
-  facebook: Ajay Ramesh
+  facebook: ajay.ramesh.71
   flickr:
   github: barryclark/jekyll-now
-  instagram: ajayr.crusader
-  linkedin: /in/ajay-ramesh-kumar
-  pinterest:
+  instagram: ajayr_crusader
+  linkedin: ajay-ramesh-kumar
+  pinterest: 
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
